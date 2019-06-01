@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css?family=Unica+One&display=swap");
+.widok_sali {
+  height: 900px;
+  width: 100%; }
+  .widok_sali table.sala {
+    border: 1px;
+    border-collapse: initial; }
+    .widok_sali table.sala td {
+      width: 20px;
+      height: 20px; }
+    .widok_sali table.sala .available {
+      background-color: grey;
+      cursor: pointer; }
+    .widok_sali table.sala .unavailable {
+      background-color: white; }
+    .widok_sali table.sala .reserved {
+      background-color: red;
+      cursor: auto; }
+    .widok_sali table.sala .choosen {
+      background-color: yellow; }
+  .widok_sali .timer_container {
+    font-size: 19pt; }
+    .widok_sali .timer_container .timer {
+      font-weight: bolder; }
+  .widok_sali .cena {
+    padding: 20px;
+    font-size: 16px; }
+
+.expired_overlay {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 2;
+  text-align: center;
+  padding-top: 300px;
+  font-size: 31pt; }
+
+.podsumowanie {
+  padding: 40px;
+  text-align: center;
+  font-size: 35px; }
+
+.hmargin {
+  margin: 10px 0px 0px 0px; }
+
+.carousel-caption > h1 {
+  font-family: 'Unica One', cursive;
+  color: #f5f5f5;
+  /*font-size: 4vw;*/
+  text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.1), 7px 7px 0px rgba(0, 0, 0, 0.05); }
+
+.card > h3 {
+  font-size: 2em; }
+
+.details > li {
+  font-size: 1.5em; }
+
+p {
+  font-size: 1.35em; }
+
+#printcard {
+  margin: 10px; }
+
+.title {
+  max-height: 110px;
+  min-height: 110px;
+  font-size: 1.2em; }
+
+.details {
+  font-size: 0.8em; }
+
+.social > .fa {
+  padding: 20px;
+  text-align: center;
+  text-decoration: none; }
+
+.list-inline {
+  font-size: 1.5vw; }
+
+.hide {
+  display: none !important; }
+
+select {
+  margin: 15px; }
+
+/*select.form-control:not([size]):not([multiple]) {
+    height: calc(2.25rem + 2px);
+}*/
+.cinema-selector label {
+  padding: 10px; }
+
+.repertuar .seanse .seans {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer; }
+
+.social {
+  font-size: 2em; }
+
+.welcome {
+  font-size: 0.8em; }

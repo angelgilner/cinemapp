@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "POKÉMON: Detektyw Pikachu",
+    "year": "2019",
+    "released": "31.05.2019",
+    "runtime": "106 min",
+    "genre": "Animacja",
+    "director": "Rob Letterman",
+    "image": "img/posters/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "BRIGHTBURN: Syn ciemności",
+    "year": "2019",
+    "released": "29.05.2019",
+    "runtime": "90 min",
+    "genre": "Horror",
+    "director": "David Yarovesky",
+    "image": "img/posters/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Słodki koniec dnia",
+    "year": "2019",
+    "released": "29.05.2019",
+    "runtime": "92 min",
+    "genre": "Dramat",
+    "director": "Jacek Borcuch",
+    "image": "img/posters/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Wymarzony",
+    "year": "2019",
+    "released": "24.05.2019",
+    "runtime": "115 min",
+    "genre": "Dramat",
+    "director": "Jeanne Herry",
+    "image": "img/posters/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Koniec Gry",
+    "year": "2019",
+    "released": "25.04.2019",
+    "runtime": "183 min",
+    "genre": "Akcja",
+    "director": "Anthony Russo",
+    "image": "img/posters/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Aladyn",
+    "year": "2019",
+    "released": "24.05.2019",
+    "runtime": "128 min",
+    "genre": "Musical",
+    "director": "Guy Ritchie",
+    "image": "img/posters/6.jpg"
+  }
+]
